@@ -1,3 +1,4 @@
+
 public abstract class Piece {
     Position position;
     String name;
@@ -11,3 +12,4 @@ public abstract class Piece {
         this.name = name;
     }
 }
+
